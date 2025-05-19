@@ -1,0 +1,66 @@
+{
+  "A": {
+    "tarifa": "A",
+    "farba": "#D60000",
+    "sadzba": "1,00 € za prvú hodinu, 1,50 € za druhú, 2,00 € za tretiu a ďalšie",
+    "max": "18,00 €",
+    "karta": "1200,00 €",
+    "vyhradene": "1500,00 €"
+  },
+  "B": {
+    "tarifa": "B",
+    "farba": "#FF9900",
+    "sadzba": "0,70 € za každú začatú hodinu",
+    "max": "7,00 €",
+    "karta": "700,00 €",
+    "vyhradene": "1000,00 €"
+  },
+  "C": {
+    "tarifa": "C",
+    "farba": "#80C342",
+    "sadzba": "0,30 € za každú začatú hodinu",
+    "max": "1,00 €",
+    "karta": "250,00 €",
+    "vyhradene": "700,00 €"
+  },
+  "D": {
+    "tarifa": "D",
+    "farba": "#5E2A17",
+    "sadzba": "0,20 € / 0,40 € / 1,00 € (za hodiny postupne)",
+    "max": "8,00 €",
+    "karta": "bez PK",
+    "vyhradene": "bez vyhradeného PM a stanovišťa TAXI"
+  },
+  "N": {
+    "tarifa": "N",
+    "farba": "#FFF200",
+    "sadzba": "0,20 € za každú začatú hodinu",
+    "max": "1,00 €",
+    "karta": "300,00 €",
+    "vyhradene": "bez vyhradeného PM a stanovišťa TAXI"
+  },
+  "P": {
+    "tarifa": "P",
+    "farba": "#009FE3",
+    "sadzba": "Len s PK rezident zóny",
+    "max": "-",
+    "karta": "-",
+    "vyhradene": "bez vyhradeného PM a stanovišťa TAXI"
+  },
+  "R1": {
+    "tarifa": "R1",
+    "farba": "#00B8A9",
+    "sadzba": "0.80 € za každú začatú hodinu iba od 8:00 do 16:00",
+    "max": "6,40 €",
+    "karta": "1. PK: 20 €, 2. PK: 80 €, 3+: 150 €",
+    "vyhradene": "bez vyhradeného PM a stanovišťa TAXI"
+  },
+  "R2": {
+    "tarifa": "R2",
+    "farba": "#00B8A9",
+    "sadzba": "0.50 € každú začatú hodinu iba od 8:00 do 16:00",
+    "max": "4 €",
+    "karta": "1. PK: 20 €, 2. PK: 80 €, 3+: 150 €",
+    "vyhradene": "bez vyhradeného PM a stanovišťa TAXI"
+  }
+}

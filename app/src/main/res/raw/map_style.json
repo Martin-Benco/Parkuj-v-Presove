@@ -1,0 +1,27 @@
+[
+  {
+    "featureType": "all",
+    "elementType": "all",
+    "stylers": [{ "visibility": "off" }]
+  },
+  {
+    "featureType": "road",
+    "elementType": "geometry",
+    "stylers": [{ "visibility": "on" }, { "color": "#ffffff" }]
+  },
+  {
+    "featureType": "road",
+    "elementType": "labels",
+    "stylers": [{ "visibility": "on" }]
+  },
+  {
+    "featureType": "administrative",
+    "elementType": "labels",
+    "stylers": [{ "visibility": "on" }]
+  },
+  {
+    "featureType": "landscape",
+    "elementType": "geometry",
+    "stylers": [{ "visibility": "on" }, { "color": "#e5e5e5" }]
+  }
+]
